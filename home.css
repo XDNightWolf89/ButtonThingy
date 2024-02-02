@@ -1,0 +1,24 @@
+body{
+    background-image: url(/main/images/cooldude.jpeg);
+    font-family: Roboto,sans-serif;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+}
+.btn{
+    background-color: grey;
+    margin-left: 15px;
+    margin-right: 15px;
+    outline-width: 10;
+    outline-style: solid;
+    outline-color: black;
+    font-size: 30px;
+}
+.btn:hover{
+    background-color: darkgray;
+    font-size: 35px;
+}
+.center{
+    text-align: center;
+}

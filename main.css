@@ -1,0 +1,15 @@
+body  {
+    background-image: url(/main/images/backgroundcool.gif);
+    font-family: Roboto,sans-serif;
+}
+.btn{
+    background-color: limegreen;
+    font-size: 40px;
+}
+.btn:hover{
+    background-color: green;
+    font-size: 45px;
+}
+div{
+    text-align: center;
+}

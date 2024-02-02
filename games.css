@@ -1,0 +1,17 @@
+body{
+    background-image: url(/main/images/backgroundcool.gif);
+    font-family: Roboto,sans-serif;
+}
+h1{
+    text-align: center;
+    background-color: blue;
+}
+.gbtn{
+    font-size: 20px;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin: 15px;
+}
